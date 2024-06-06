@@ -1,4 +1,4 @@
-# Real-Time Chat Application
+# Convo App Node
 
 This is a simple real-time chat application built with Node.js and Socket.io. The application allows users to send and receive messages in real-time.
 
@@ -25,12 +25,12 @@ Make sure you have Node.js installed on your system. You can download it from [n
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/realtime-chat-app.git
-   cd realtime-chat-app
+   git clone https://github.com/PerezChris99/Convo-App-Node
+   cd convo-app-node
 
-1.  shCopy codenpm install
+1.  npm install
     
-2.  shCopy codenode server.js
+2.  node server.js
     
 3.  Open your browser and navigate to http://localhost:3000.
     
